@@ -51,5 +51,27 @@ Wireframing is a crucial step in the design process, serving as a blueprint or s
 - **High-Fidelity Wireframes**: More detailed and refined versions, often closer to the final design, including more specific layout and design elements.
   Used When: In later stages, before development, to finalize design decisions and get stakeholder approval.
 
-  ### What of wireframe is here?
+## What of wireframe is the sample?
   - The provided wireframe is a high fidelity wireframe.
+
+## Popular wireframing tool
+
+Figma is a powerful, cloud-based design tool used for wireframing, UI/UX design, and prototyping.
+
+### Key Features of Figma:
+- Collaborative Design: Multiple users can edit and comment in real time—ideal for team projects.
+
+- Drag-and-Drop Interface: Quickly create wireframes using pre-built components and layouts.
+
+- Prototyping: Link frames to demonstrate user flows and interactions.
+
+- Version History: Easily track and restore previous design versions.
+
+- Cross-Platform Access: Works in any browser, with no installation needed.
+
+### Why Figma is Useful for Wireframing:
+- Speeds up the wireframing process with reusable components.
+
+- Enables clear communication among designers, developers, and stakeholders.
+
+- Supports both low-fidelity and high-fidelity wireframes in one platform.
