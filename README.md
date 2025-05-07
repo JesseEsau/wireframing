@@ -44,3 +44,12 @@ Wireframing is a crucial step in the design process, serving as a blueprint or s
     Example: Placing a headline at the top center grabs user attention, while grouping related content together improves comprehension.
   - Functionality: Outlines key functionalities and interactions.
     Example: A “Sign Up” button prominently placed on a landing page encourages conversions and user engagement.
+
+## Types of Wireframes.
+- **Low-Fidelity Wireframes**: Simple sketches or basic digital layouts focusing on overall structure and functionality without detailed design.
+  Used When: Early in the design process to quickly explore ideas, gather feedback, and define structure and layout.
+- **High-Fidelity Wireframes**: More detailed and refined versions, often closer to the final design, including more specific layout and design elements.
+  Used When: In later stages, before development, to finalize design decisions and get stakeholder approval.
+
+  ### What of wireframe is here?
+  - The provided wireframe is a high fidelity wireframe.
