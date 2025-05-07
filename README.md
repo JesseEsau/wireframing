@@ -54,7 +54,7 @@ Wireframing is a crucial step in the design process, serving as a blueprint or s
 ## What of wireframe is the sample?
   - The provided wireframe is a high fidelity wireframe.
 
-## Popular wireframing tool
+## Popular wireframing tool (Figma)
 
 Figma is a powerful, cloud-based design tool used for wireframing, UI/UX design, and prototyping.
 
