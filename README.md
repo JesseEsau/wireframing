@@ -37,6 +37,10 @@ Wireframing is a crucial step in the design process, serving as a blueprint or s
 
 ## Key Elements in a Wireframe
   - Layout Structure: Defines the arrangement of elements on the page.
+    Example: A two-column layout with a sidebar on the left and main content on the right helps organize information logically and improves readability.
   - Navigation: Shows how users will move through the site or application.
+    Example: A top navigation bar with links to Home, About, Services, and Contact ensures users can access key sections easily.
   - Content Placement: Indicates where text, images, and other content will be positioned.
+    Example: Placing a headline at the top center grabs user attention, while grouping related content together improves comprehension.
   - Functionality: Outlines key functionalities and interactions.
+    Example: A “Sign Up” button prominently placed on a landing page encourages conversions and user engagement.
