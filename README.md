@@ -91,3 +91,26 @@ Figma is a powerful, cloud-based design tool used for wireframing, UI/UX design,
 - Efficient Feedback: Teams can comment on wireframes in Figma, making collaboration and iteration faster and clearer.
 
 Example: Using Figma, a designer adds a “Sign Up” button and a navigation bar in the wireframe. The team reviews it, gives feedback on placement, and agrees on functionality—ensuring everyone is aligned before coding starts.
+
+## Wireframing in Practice
+
+### Real-World Scenario:
+A design team was tasked with creating a university's course registration portal. During the wireframing stage, they created a low-fidelity wireframe in Figma showing the course list, filters, and registration button on one page.
+
+### Usability Issue Identified:
+User testing of the wireframe revealed confusion—students had difficulty finding prerequisites and often overlooked the “Register” button, which was placed at the bottom of the page.
+
+### Resolution:
+- The team revised the wireframe to include:
+
+  - A clearer layout separating course info and actions
+
+  - A floating “Register” button
+
+Visible prerequisite indicators next to course titles
+
+### Impact on Final Product:
+These changes improved clarity and usability, reducing registration errors and increasing user satisfaction. Development proceeded smoothly since issues were resolved before coding began.
+
+### Conclusion:
+Wireframing played a critical role in detecting and resolving usability issues early. By visualizing and testing designs upfront, wireframes ensure a more user-friendly, effective final product.
